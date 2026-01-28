@@ -5,5 +5,5 @@ A DiY AR/HUD Device
 
  [![1](/img/V1/youtube.png)](https://www.youtube.com/watch?v=Z6SLjW5CFwE)
  
- - #### [STL Files]()
- - #### [CAD Files]()
+ - #### [STL Files](https://www.patreon.com/posts/130999112/)
+ - #### [CAD Files](https://www.patreon.com/posts/130998855/)
